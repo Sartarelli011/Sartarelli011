@@ -19,10 +19,10 @@ Sou Gabriel, um entusiasta da tecnologia e um entusiasta de código aberto. Nest
 
 ## Principais Interesses e Habilidades
 - 🖥️ Desenvolvimento web (HTML, CSS, JavaScript, frameworks como React e Next, BootStrap Tailwindcss).
-- 🤖 Tecnologias do Backend (Nodejs, Express, Java, Springboot).
+- 🤖 Tecnologias do Backend (Nodejs, Java/Kotlin, Springboot).
 - 📊 Testes unitários, testes de integração (Jest, Junit).
 - ⚙️ Automação de tarefas (Python, scripts de shell).
-- 📱 Desenvolvimento de aplicativos móveis (React Native).
+  
 
 # Projetos em Destaque
 - [todo_app](https://github.com/Sartarelli011/todoApp): Um app Todo, para anotar suas tarefas do dia.
