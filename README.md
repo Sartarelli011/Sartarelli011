@@ -1,12 +1,5 @@
 # Gabriel Sartarelli Jaccoud
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
 
 ## Olá, seja bem-vindo ao meu perfil no GitHub!
 Sou Gabriel, um entusiasta da tecnologia e um entusiasta de código aberto. Neste perfil, você encontrará uma variedade de projetos que refletem meus interesses e habilidades.
@@ -20,7 +13,7 @@ Sou Gabriel, um entusiasta da tecnologia e um entusiasta de código aberto. Nest
 ## Principais Interesses e Habilidades
 - 🖥️ Desenvolvimento web (HTML, CSS, JavaScript, frameworks como React e Next, BootStrap Tailwindcss).
 - 🤖 Tecnologias do Backend (Nodejs, Java/Kotlin, Springboot).
-- 📊 Testes unitários, testes de integração (Jest, Junit).
+- 📊 Testes unitários, testes de integração (Jest, Junit, Mockito).
 - ⚙️ Automação de tarefas (Python, scripts de shell).
   
 
