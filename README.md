@@ -1,5 +1,3 @@
-# Gabriel Sartarelli Jaccoud
-
 
 ## Olá, seja bem-vindo ao meu perfil no GitHub!
 Sou Gabriel, um entusiasta da tecnologia e um entusiasta de código aberto. Neste perfil, você encontrará uma variedade de projetos que refletem meus interesses e habilidades.
