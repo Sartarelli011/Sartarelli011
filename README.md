@@ -1,24 +1,34 @@
 
 ## Olá, seja bem-vindo ao meu perfil no GitHub!
-Sou Gabriel, um entusiasta da tecnologia e um entusiasta de código aberto. Neste perfil, você encontrará uma variedade de projetos que refletem meus interesses e habilidades.
+Sou Gabriel, um entusiasta da tecnologia e apaixonado por dados. Neste perfil, você encontrará uma variedade de projetos que refletem meus interesses e habilidades em análise de dados e desenvolvimento de soluções baseadas em dados.
 
 ## Sobre Mim
-- 👩‍💻 Atualmente, procuro uma oportunidade no mercado de desenvolvimento.
-- 🎓 Estou me formando em Analise e Desenvolvimento de Sistemas na FIAP.
-- 💡 Estou constantemente aprendendo e aprimorando minhas habilidades em programação.
-- 🌱 Sou apaixonado por desenvolvimento BackEnd.
+-👨‍💻 Atualmente, procuro uma oportunidade no mercado de análise de dados.
+
+-🎓 Estou me formando em Análise e Desenvolvimento de Sistemas na FIAP.
+
+-💡 Estou constantemente aprendendo e aprimorando minhas habilidades em ciência de dados e análise de dados.
+
+-🌱 Sou apaixonado por transformar dados em insights acionáveis.
 
 ## Principais Interesses e Habilidades
-- 🖥️ Desenvolvimento web (HTML, CSS, JavaScript, frameworks como React e Next, BootStrap Tailwindcss).
-- 🤖 Tecnologias do Backend (Nodejs, Java/Kotlin, Springboot).
-- 📊 Testes unitários, testes de integração (Jest, Junit, Mockito).
-- ⚙️ Automação de tarefas (Python, scripts de shell).
+-📊 Análise de dados (Excel avançado, Power BI, SQL, Python).
+
+-🛠️ Modelagem de dados relacionais e não-relacionais.
+
+-📈 Visualização de dados (Tableau, Power BI, matplotlib).
+
+-📚  Estatística (Pandas, NumPy).
+
+-⚙️ Automação de tarefas e tratamento de dados (Python).
+
+-🔍 Storytelling com dados e criação de apresentações impactantes.
   
 
 # Projetos em Destaque
-- [todo_app](https://github.com/Sartarelli011/todoApp): Um app Todo, para anotar suas tarefas do dia.
-- [Isenção cartões](https://github.com/Sartarelli011/Isencao-cartoes): Automação de planilhas no excel para relatorios.
-Certifique-se de conferir meu repositório para ver mais projetos interessantes!
+- [Contoso](https://github.com/Sartarelli011/Contoso):Dashboard de Análise de Vendas em Power BI.
+- [Bike Store](https://github.com/Sartarelli011/Bike-Store): Dashboard de Análise de Resultados em Power BI.
+
 
 # Contato
 📧 Você pode entrar em contato comigo por e-mail em Gabrielsartarelli@gmail.com.
