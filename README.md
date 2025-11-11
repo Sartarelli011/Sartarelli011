@@ -1,40 +1,44 @@
+👋 Olá, seja bem-vindo ao meu perfil no GitHub!
 
-## Olá, seja bem-vindo ao meu perfil no GitHub!
-Sou Gabriel, um entusiasta da tecnologia e apaixonado por dados. Neste perfil, você encontrará uma variedade de projetos que refletem meus interesses e habilidades em análise de dados e desenvolvimento de soluções baseadas em dados.
+Sou Gabriel Sartarelli Jaccoud, um entusiasta da tecnologia e apaixonado por dados.
+Neste perfil, você encontrará projetos que refletem meu interesse em análise de dados, modelagem e desenvolvimento de soluções inteligentes que transformam informações em insights acionáveis.
 
-## Sobre Mim
--👨‍💻 Atualmente, procuro uma oportunidade no mercado de análise de dados.
+🧠 Sobre Mim
 
--🎓 Estou me formando em Análise e Desenvolvimento de Sistemas na FIAP.
+👨‍💻 Atualmente, atuo como Analista de Dados na Oggi Sorvetes, onde desenvolvo dashboards de performance comercial e operacional em Power BI, integrando dados de diversas fontes (PostgreSQL, Protheus, Excel e Python).
 
--💡 Estou constantemente aprendendo e aprimorando minhas habilidades em ciência de dados e análise de dados.
+🎓 formado em Análise e Desenvolvimento de Sistemas pela FIAP.
 
--🌱 Sou apaixonado por transformar dados em insights acionáveis.
+💡 Estou em constante aprendizado e aprimoramento em ciência e análise de dados, com foco em automação, storytelling e modelagem preditiva.
 
-## Principais Interesses e Habilidades
--📊 Análise de dados (Excel avançado, Power BI, SQL, Python).
+🌱 Tenho como propósito transformar dados em decisões estratégicas e gerar valor real para o negócio.
 
--🛠️ Modelagem de dados relacionais e não-relacionais.
+⚙️ Principais Interesses e Habilidades
 
--📈 Visualização de dados (Tableau, Power BI, matplotlib).
+📊 Análise de dados: Excel avançado, Power BI, SQL e Python.
 
--📚  Estatística (Pandas, NumPy).
+🛠️ Modelagem de dados: estruturada, relacional e dimensional.
 
--⚙️ Automação de tarefas e tratamento de dados (Python).
+📈 Visualização de dados: Power BI, Tableau, matplotlib.
 
--🔍 Storytelling com dados e criação de apresentações impactantes.
-  
+📚 Estatística e manipulação de dados: Pandas, NumPy.
 
-# Projetos em Destaque
-- [Contoso](https://github.com/Sartarelli011/Contoso):Dashboard de Análise de Vendas em Power BI.
-- [Bike Store](https://github.com/Sartarelli011/Bike-Store): Dashboard de Análise de Resultados em Power BI.
+⚙️ Automação e ETL: scripts em Python para coleta, limpeza e integração de dados.
 
+🎯 Storytelling com dados: apresentações e dashboards orientados a resultados.
 
-# Contato
-📧 Você pode entrar em contato comigo por e-mail em Gabrielsartarelli@gmail.com.
+🚀 Projetos em Destaque
 
-💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/sartarelli/) para oportunidades profissionais e networking.
-Fique à vontade para explorar meus projetos e repositórios aqui no GitHub. Sinta-se livre para contribuir, abrir problemas ou entrar em contato comigo.
-Estou sempre interessado em colaborações e novas ideias!
+Oggi Sorvetes – Diário de Loja
+: Dashboard analítico completo de performance comercial e operacional.
 
-Obrigado por visitar meu perfil. Tenha um ótimo dia! 🌟
+📫 Contato
+
+📧 E-mail: gabrielsartarelli@gmail.com
+
+💼 LinkedIn: linkedin.com/in/sartarelli
+
+Fique à vontade para explorar meus projetos e repositórios!
+Sinta-se livre para contribuir, abrir discussões ou apenas trocar ideias — estou sempre aberto a colaborações e novos desafios.
+
+Obrigado por visitar meu perfil. Tenha um excelente dia! 🌟
